@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Aps>
+	<Group>
+		<Page Width="384" Height="384" PaperTray="0">
+			<Canvas>
+				<Canvas>
+					<Clip>
+						<Path FillMode="Winding">
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="384" />
+									<Point X="0" Y="0" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="0" />
+									<Point X="384" Y="0" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="384" Y="0" />
+									<Point X="384" Y="384" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="384" Y="384" />
+									<Point X="0" Y="384" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Clip>
+					<Canvas>
+						<Clip>
+							<Path FillMode="Winding">
+								<PathFigure IsClosed="True">
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="0" />
+										<Point X="0" Y="0" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="0" Y="0" />
+										<Point X="384" Y="0" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="384" Y="0" />
+										<Point X="384" Y="384" />
+									</PolyLine>
+									<PolyLine LineColor="#FF000000">
+										<Point X="384" Y="384" />
+										<Point X="0" Y="384" />
+									</PolyLine>
+								</PathFigure>
+							</Path>
+						</Clip>
+						<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 384">
+							<Brush>
+								<SolidBrush Color="#FFE8F5E9" />
+							</Brush>
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="384" />
+									<Point X="0" Y="384" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="0" Y="384" />
+									<Point X="384" Y="384" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="384" Y="384" />
+									<Point X="384" Y="0" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="384" Y="0" />
+									<Point X="0" Y="0" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+						<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 384">
+							<Brush>
+								<TextureBrush ResourceId="1" Transform="1 -0 0 1 -11.25 17.25" WrapMode="Tile" Opacity="1">
+									<ImageArea X="0" Y="0" Width="0" Height="0" />
+								</TextureBrush>
+							</Brush>
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="-11.25" Y="401.25" />
+									<Point X="-11.25" Y="401.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="-11.25" Y="401.25" />
+									<Point X="372.75" Y="401.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="372.75" Y="401.25" />
+									<Point X="372.75" Y="17.25" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="372.75" Y="17.25" />
+									<Point X="-11.25" Y="17.25" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+						<Path FillMode="Winding" RenderTransform="1 0 0 -1 0 384">
+							<Brush>
+								<TextureBrush ResourceId="1" Transform="1 -0 0 1 10.5 -18" WrapMode="Tile" Opacity="1">
+									<ImageArea X="0" Y="0" Width="0" Height="0" />
+								</TextureBrush>
+							</Brush>
+							<PathFigure IsClosed="True">
+								<PolyLine LineColor="#FF000000">
+									<Point X="10.5" Y="366" />
+									<Point X="10.5" Y="366" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="10.5" Y="366" />
+									<Point X="394.5" Y="366" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="394.5" Y="366" />
+									<Point X="394.5" Y="-18" />
+								</PolyLine>
+								<PolyLine LineColor="#FF000000">
+									<Point X="394.5" Y="-18" />
+									<Point X="10.5" Y="-18" />
+								</PolyLine>
+							</PathFigure>
+						</Path>
+					</Canvas>
+				</Canvas>
+			</Canvas>
+		</Page>
+	</Group>
+	<Resources>
+		<Resource Id="1">iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAAsSAAALEgHS3X78AAACU0lEQVR4nOzBMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAdwMAAP//5QO8eAAAAAZJREFUAwACBwABbiOF9gAAAABJRU5ErkJggg==</Resource>
+	</Resources>
+</Aps>

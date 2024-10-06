@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290038348127",
+    "project_id": "project-trial-7c796",
+    "storage_bucket": "project-trial-7c796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290038348127:android:37681690ec881693099eea",
+        "android_client_info": {
+          "package_name": "com.gaurav.project_trial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3S5M35sx54024Gh6zq9ahAsNwmQJhBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
